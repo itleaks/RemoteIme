@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">helloworld</string>
+    <string name="app_name">RemoteIME</string>
+    <string name="remote_ime">RemoteIME</string>
+    <string name="status">status:idle</string>
+    <string name="search">search</string>
+    <string name="send">send</string>    
+    <string name="auto_send">auto send</string>       
+</resources>
